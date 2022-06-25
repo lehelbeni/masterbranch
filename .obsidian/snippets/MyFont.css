@@ -1,0 +1,16 @@
+* {
+  font-family: "Harding Text Web";
+}
+
+.three-columns {
+  columns: 3;
+}
+
+.markdown-source-view,
+.markdown-preview-view,
+.cm-content,
+.markdown-source-view.mod-cm6.is-line-wrap.is-readable-line-width .cm-content,
+.outliner-plugin-list-lines-content-container {
+  max-width: 1300px !important;
+  margin: auto;
+}
